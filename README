@@ -1,0 +1,10 @@
+Installation
+============
+Install dependencies:
+* `python-numpy`
+* `python-setuptools`
+* `python-usb`
+
+Then enter in python-* directories and run:
+
+`python setup.py install`
